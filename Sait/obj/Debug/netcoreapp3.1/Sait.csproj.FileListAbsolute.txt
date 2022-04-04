@@ -1,0 +1,168 @@
+C:\Users\hp\Desktop\ПСП\Sait\Sait\bin\Debug\netcoreapp3.1\appsettings.Development.json
+C:\Users\hp\Desktop\ПСП\Sait\Sait\bin\Debug\netcoreapp3.1\appsettings.json
+C:\Users\hp\Desktop\ПСП\Sait\Sait\bin\Debug\netcoreapp3.1\Sait.exe
+C:\Users\hp\Desktop\ПСП\Sait\Sait\bin\Debug\netcoreapp3.1\Sait.deps.json
+C:\Users\hp\Desktop\ПСП\Sait\Sait\bin\Debug\netcoreapp3.1\Sait.runtimeconfig.json
+C:\Users\hp\Desktop\ПСП\Sait\Sait\bin\Debug\netcoreapp3.1\Sait.runtimeconfig.dev.json
+C:\Users\hp\Desktop\ПСП\Sait\Sait\bin\Debug\netcoreapp3.1\Sait.dll
+C:\Users\hp\Desktop\ПСП\Sait\Sait\bin\Debug\netcoreapp3.1\Sait.pdb
+C:\Users\hp\Desktop\ПСП\Sait\Sait\bin\Debug\netcoreapp3.1\Sait.Views.dll
+C:\Users\hp\Desktop\ПСП\Sait\Sait\bin\Debug\netcoreapp3.1\Sait.Views.pdb
+C:\Users\hp\Desktop\ПСП\Sait\Sait\bin\Debug\netcoreapp3.1\Microsoft.Data.SqlClient.dll
+C:\Users\hp\Desktop\ПСП\Sait\Sait\bin\Debug\netcoreapp3.1\Microsoft.EntityFrameworkCore.dll
+C:\Users\hp\Desktop\ПСП\Sait\Sait\bin\Debug\netcoreapp3.1\Microsoft.EntityFrameworkCore.Abstractions.dll
+C:\Users\hp\Desktop\ПСП\Sait\Sait\bin\Debug\netcoreapp3.1\Microsoft.EntityFrameworkCore.Relational.dll
+C:\Users\hp\Desktop\ПСП\Sait\Sait\bin\Debug\netcoreapp3.1\Microsoft.EntityFrameworkCore.SqlServer.dll
+C:\Users\hp\Desktop\ПСП\Sait\Sait\bin\Debug\netcoreapp3.1\Microsoft.Extensions.Caching.Abstractions.dll
+C:\Users\hp\Desktop\ПСП\Sait\Sait\bin\Debug\netcoreapp3.1\Microsoft.Extensions.Caching.Memory.dll
+C:\Users\hp\Desktop\ПСП\Sait\Sait\bin\Debug\netcoreapp3.1\Microsoft.Extensions.Configuration.Abstractions.dll
+C:\Users\hp\Desktop\ПСП\Sait\Sait\bin\Debug\netcoreapp3.1\Microsoft.Extensions.DependencyInjection.dll
+C:\Users\hp\Desktop\ПСП\Sait\Sait\bin\Debug\netcoreapp3.1\Microsoft.Extensions.DependencyInjection.Abstractions.dll
+C:\Users\hp\Desktop\ПСП\Sait\Sait\bin\Debug\netcoreapp3.1\Microsoft.Extensions.Logging.dll
+C:\Users\hp\Desktop\ПСП\Sait\Sait\bin\Debug\netcoreapp3.1\Microsoft.Extensions.Logging.Abstractions.dll
+C:\Users\hp\Desktop\ПСП\Sait\Sait\bin\Debug\netcoreapp3.1\Microsoft.Extensions.Options.dll
+C:\Users\hp\Desktop\ПСП\Sait\Sait\bin\Debug\netcoreapp3.1\Microsoft.Extensions.Primitives.dll
+C:\Users\hp\Desktop\ПСП\Sait\Sait\bin\Debug\netcoreapp3.1\Microsoft.Identity.Client.dll
+C:\Users\hp\Desktop\ПСП\Sait\Sait\bin\Debug\netcoreapp3.1\Microsoft.IdentityModel.JsonWebTokens.dll
+C:\Users\hp\Desktop\ПСП\Sait\Sait\bin\Debug\netcoreapp3.1\Microsoft.IdentityModel.Logging.dll
+C:\Users\hp\Desktop\ПСП\Sait\Sait\bin\Debug\netcoreapp3.1\Microsoft.IdentityModel.Protocols.dll
+C:\Users\hp\Desktop\ПСП\Sait\Sait\bin\Debug\netcoreapp3.1\Microsoft.IdentityModel.Protocols.OpenIdConnect.dll
+C:\Users\hp\Desktop\ПСП\Sait\Sait\bin\Debug\netcoreapp3.1\Microsoft.IdentityModel.Tokens.dll
+C:\Users\hp\Desktop\ПСП\Sait\Sait\bin\Debug\netcoreapp3.1\Newtonsoft.Json.dll
+C:\Users\hp\Desktop\ПСП\Sait\Sait\bin\Debug\netcoreapp3.1\System.Collections.Immutable.dll
+C:\Users\hp\Desktop\ПСП\Sait\Sait\bin\Debug\netcoreapp3.1\System.ComponentModel.Annotations.dll
+C:\Users\hp\Desktop\ПСП\Sait\Sait\bin\Debug\netcoreapp3.1\System.Configuration.ConfigurationManager.dll
+C:\Users\hp\Desktop\ПСП\Sait\Sait\bin\Debug\netcoreapp3.1\System.Diagnostics.DiagnosticSource.dll
+C:\Users\hp\Desktop\ПСП\Sait\Sait\bin\Debug\netcoreapp3.1\System.IdentityModel.Tokens.Jwt.dll
+C:\Users\hp\Desktop\ПСП\Sait\Sait\bin\Debug\netcoreapp3.1\System.Runtime.Caching.dll
+C:\Users\hp\Desktop\ПСП\Sait\Sait\bin\Debug\netcoreapp3.1\System.Security.Cryptography.ProtectedData.dll
+C:\Users\hp\Desktop\ПСП\Sait\Sait\bin\Debug\netcoreapp3.1\runtimes\unix\lib\netcoreapp3.1\Microsoft.Data.SqlClient.dll
+C:\Users\hp\Desktop\ПСП\Sait\Sait\bin\Debug\netcoreapp3.1\runtimes\win\lib\netcoreapp3.1\Microsoft.Data.SqlClient.dll
+C:\Users\hp\Desktop\ПСП\Sait\Sait\bin\Debug\netcoreapp3.1\runtimes\win-arm\native\Microsoft.Data.SqlClient.SNI.dll
+C:\Users\hp\Desktop\ПСП\Sait\Sait\bin\Debug\netcoreapp3.1\runtimes\win-arm\native\Microsoft.Data.SqlClient.SNI.pdb
+C:\Users\hp\Desktop\ПСП\Sait\Sait\bin\Debug\netcoreapp3.1\runtimes\win-arm64\native\Microsoft.Data.SqlClient.SNI.dll
+C:\Users\hp\Desktop\ПСП\Sait\Sait\bin\Debug\netcoreapp3.1\runtimes\win-arm64\native\Microsoft.Data.SqlClient.SNI.pdb
+C:\Users\hp\Desktop\ПСП\Sait\Sait\bin\Debug\netcoreapp3.1\runtimes\win-x64\native\Microsoft.Data.SqlClient.SNI.dll
+C:\Users\hp\Desktop\ПСП\Sait\Sait\bin\Debug\netcoreapp3.1\runtimes\win-x64\native\Microsoft.Data.SqlClient.SNI.pdb
+C:\Users\hp\Desktop\ПСП\Sait\Sait\bin\Debug\netcoreapp3.1\runtimes\win-x86\native\Microsoft.Data.SqlClient.SNI.dll
+C:\Users\hp\Desktop\ПСП\Sait\Sait\bin\Debug\netcoreapp3.1\runtimes\win-x86\native\Microsoft.Data.SqlClient.SNI.pdb
+C:\Users\hp\Desktop\ПСП\Sait\Sait\bin\Debug\netcoreapp3.1\runtimes\win\lib\netstandard2.0\System.Runtime.Caching.dll
+C:\Users\hp\Desktop\ПСП\Sait\Sait\bin\Debug\netcoreapp3.1\runtimes\win\lib\netstandard2.0\System.Security.Cryptography.ProtectedData.dll
+C:\Users\hp\Desktop\ПСП\Sait\Sait\obj\Debug\netcoreapp3.1\Sait.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\hp\Desktop\ПСП\Sait\Sait\obj\Debug\netcoreapp3.1\Sait.AssemblyInfoInputs.cache
+C:\Users\hp\Desktop\ПСП\Sait\Sait\obj\Debug\netcoreapp3.1\Sait.AssemblyInfo.cs
+C:\Users\hp\Desktop\ПСП\Sait\Sait\obj\Debug\netcoreapp3.1\Sait.csproj.CoreCompileInputs.cache
+C:\Users\hp\Desktop\ПСП\Sait\Sait\obj\Debug\netcoreapp3.1\Sait.MvcApplicationPartsAssemblyInfo.cache
+C:\Users\hp\Desktop\ПСП\Sait\Sait\obj\Debug\netcoreapp3.1\Sait.RazorAssemblyInfo.cache
+C:\Users\hp\Desktop\ПСП\Sait\Sait\obj\Debug\netcoreapp3.1\Sait.RazorAssemblyInfo.cs
+C:\Users\hp\Desktop\ПСП\Sait\Sait\obj\Debug\netcoreapp3.1\staticwebassets\Sait.StaticWebAssets.Manifest.cache
+C:\Users\hp\Desktop\ПСП\Sait\Sait\obj\Debug\netcoreapp3.1\staticwebassets\Sait.StaticWebAssets.xml
+C:\Users\hp\Desktop\ПСП\Sait\Sait\obj\Debug\netcoreapp3.1\scopedcss\bundle\Sait.styles.css
+C:\Users\hp\Desktop\ПСП\Sait\Sait\obj\Debug\netcoreapp3.1\Sait.TagHelpers.input.cache
+C:\Users\hp\Desktop\ПСП\Sait\Sait\obj\Debug\netcoreapp3.1\Sait.TagHelpers.output.cache
+C:\Users\hp\Desktop\ПСП\Sait\Sait\obj\Debug\netcoreapp3.1\Sait.RazorCoreGenerate.cache
+C:\Users\hp\Desktop\ПСП\Sait\Sait\obj\Debug\netcoreapp3.1\Razor\Views\Home\Index.cshtml.g.cs
+C:\Users\hp\Desktop\ПСП\Sait\Sait\obj\Debug\netcoreapp3.1\Razor\Views\Shared\Error.cshtml.g.cs
+C:\Users\hp\Desktop\ПСП\Sait\Sait\obj\Debug\netcoreapp3.1\Razor\Views\Shared\_Layout.cshtml.g.cs
+C:\Users\hp\Desktop\ПСП\Sait\Sait\obj\Debug\netcoreapp3.1\Razor\Views\Shared\_ValidationScriptsPartial.cshtml.g.cs
+C:\Users\hp\Desktop\ПСП\Sait\Sait\obj\Debug\netcoreapp3.1\Razor\Views\_ViewImports.cshtml.g.cs
+C:\Users\hp\Desktop\ПСП\Sait\Sait\obj\Debug\netcoreapp3.1\Razor\Views\_ViewStart.cshtml.g.cs
+C:\Users\hp\Desktop\ПСП\Sait\Sait\obj\Debug\netcoreapp3.1\Sait.RazorTargetAssemblyInfo.cache
+C:\Users\hp\Desktop\ПСП\Sait\Sait\obj\Debug\netcoreapp3.1\Sait.RazorTargetAssemblyInfo.cs
+C:\Users\hp\Desktop\ПСП\Sait\Sait\obj\Debug\netcoreapp3.1\Sait.Views.pdb
+C:\Users\hp\Desktop\ПСП\Sait\Sait\obj\Debug\netcoreapp3.1\Sait.csproj.CopyComplete
+C:\Users\hp\Desktop\ПСП\Sait\Sait\obj\Debug\netcoreapp3.1\Sait.dll
+C:\Users\hp\Desktop\ПСП\Sait\Sait\obj\Debug\netcoreapp3.1\Sait.pdb
+C:\Users\hp\Desktop\ПСП\Sait\Sait\obj\Debug\netcoreapp3.1\Sait.genruntimeconfig.cache
+C:\Users\hp\Desktop\ПСП\Sait\Sait\bin\Debug\netcoreapp3.1\Humanizer.dll
+C:\Users\hp\Desktop\ПСП\Sait\Sait\bin\Debug\netcoreapp3.1\Microsoft.EntityFrameworkCore.Design.dll
+C:\Users\hp\Desktop\ПСП\Sait\Sait\obj\Debug\netcoreapp3.1\Razor\Views\Home\AddFeedback.cshtml.g.cs
+C:\Users\hp\Desktop\ПСП\Sait\Sait\obj\Debug\netcoreapp3.1\Razor\Views\Home\About.cshtml.g.cs
+C:\Users\hp\Desktop\ПСП\Sait\Sait\obj\Debug\netcoreapp3.1\Razor\Views\Home\SeeFeedbacks.cshtml.g.cs
+C:\Users\hp\Desktop\ПСП\Sait\Sait\obj\Debug\netcoreapp3.1\Razor\Views\Home\Product.cshtml.g.cs
+C:\Users\hp\Desktop\ПСП\Sait\Sait\obj\Debug\netcoreapp3.1\Razor\Views\Home\ProductInfo.cshtml.g.cs
+C:\Users\hp\Desktop\ПСП\Sait\Sait\obj\Debug\netcoreapp3.1\Sait.csproj.AssemblyReference.cache
+C:\Users\hp\Desktop\псп проект\Sait\bin\Debug\netcoreapp3.1\appsettings.Development.json
+C:\Users\hp\Desktop\псп проект\Sait\bin\Debug\netcoreapp3.1\appsettings.json
+C:\Users\hp\Desktop\псп проект\Sait\bin\Debug\netcoreapp3.1\Sait.exe
+C:\Users\hp\Desktop\псп проект\Sait\bin\Debug\netcoreapp3.1\Sait.deps.json
+C:\Users\hp\Desktop\псп проект\Sait\bin\Debug\netcoreapp3.1\Sait.runtimeconfig.json
+C:\Users\hp\Desktop\псп проект\Sait\bin\Debug\netcoreapp3.1\Sait.runtimeconfig.dev.json
+C:\Users\hp\Desktop\псп проект\Sait\bin\Debug\netcoreapp3.1\Sait.dll
+C:\Users\hp\Desktop\псп проект\Sait\bin\Debug\netcoreapp3.1\Sait.pdb
+C:\Users\hp\Desktop\псп проект\Sait\bin\Debug\netcoreapp3.1\Sait.Views.dll
+C:\Users\hp\Desktop\псп проект\Sait\bin\Debug\netcoreapp3.1\Sait.Views.pdb
+C:\Users\hp\Desktop\псп проект\Sait\bin\Debug\netcoreapp3.1\Humanizer.dll
+C:\Users\hp\Desktop\псп проект\Sait\bin\Debug\netcoreapp3.1\Microsoft.Data.SqlClient.dll
+C:\Users\hp\Desktop\псп проект\Sait\bin\Debug\netcoreapp3.1\Microsoft.EntityFrameworkCore.dll
+C:\Users\hp\Desktop\псп проект\Sait\bin\Debug\netcoreapp3.1\Microsoft.EntityFrameworkCore.Abstractions.dll
+C:\Users\hp\Desktop\псп проект\Sait\bin\Debug\netcoreapp3.1\Microsoft.EntityFrameworkCore.Design.dll
+C:\Users\hp\Desktop\псп проект\Sait\bin\Debug\netcoreapp3.1\Microsoft.EntityFrameworkCore.Relational.dll
+C:\Users\hp\Desktop\псп проект\Sait\bin\Debug\netcoreapp3.1\Microsoft.EntityFrameworkCore.SqlServer.dll
+C:\Users\hp\Desktop\псп проект\Sait\bin\Debug\netcoreapp3.1\Microsoft.Extensions.Caching.Abstractions.dll
+C:\Users\hp\Desktop\псп проект\Sait\bin\Debug\netcoreapp3.1\Microsoft.Extensions.Caching.Memory.dll
+C:\Users\hp\Desktop\псп проект\Sait\bin\Debug\netcoreapp3.1\Microsoft.Extensions.Configuration.Abstractions.dll
+C:\Users\hp\Desktop\псп проект\Sait\bin\Debug\netcoreapp3.1\Microsoft.Extensions.DependencyInjection.dll
+C:\Users\hp\Desktop\псп проект\Sait\bin\Debug\netcoreapp3.1\Microsoft.Extensions.DependencyInjection.Abstractions.dll
+C:\Users\hp\Desktop\псп проект\Sait\bin\Debug\netcoreapp3.1\Microsoft.Extensions.Logging.dll
+C:\Users\hp\Desktop\псп проект\Sait\bin\Debug\netcoreapp3.1\Microsoft.Extensions.Logging.Abstractions.dll
+C:\Users\hp\Desktop\псп проект\Sait\bin\Debug\netcoreapp3.1\Microsoft.Extensions.Options.dll
+C:\Users\hp\Desktop\псп проект\Sait\bin\Debug\netcoreapp3.1\Microsoft.Extensions.Primitives.dll
+C:\Users\hp\Desktop\псп проект\Sait\bin\Debug\netcoreapp3.1\Microsoft.Identity.Client.dll
+C:\Users\hp\Desktop\псп проект\Sait\bin\Debug\netcoreapp3.1\Microsoft.IdentityModel.JsonWebTokens.dll
+C:\Users\hp\Desktop\псп проект\Sait\bin\Debug\netcoreapp3.1\Microsoft.IdentityModel.Logging.dll
+C:\Users\hp\Desktop\псп проект\Sait\bin\Debug\netcoreapp3.1\Microsoft.IdentityModel.Protocols.dll
+C:\Users\hp\Desktop\псп проект\Sait\bin\Debug\netcoreapp3.1\Microsoft.IdentityModel.Protocols.OpenIdConnect.dll
+C:\Users\hp\Desktop\псп проект\Sait\bin\Debug\netcoreapp3.1\Microsoft.IdentityModel.Tokens.dll
+C:\Users\hp\Desktop\псп проект\Sait\bin\Debug\netcoreapp3.1\Newtonsoft.Json.dll
+C:\Users\hp\Desktop\псп проект\Sait\bin\Debug\netcoreapp3.1\System.Collections.Immutable.dll
+C:\Users\hp\Desktop\псп проект\Sait\bin\Debug\netcoreapp3.1\System.ComponentModel.Annotations.dll
+C:\Users\hp\Desktop\псп проект\Sait\bin\Debug\netcoreapp3.1\System.Configuration.ConfigurationManager.dll
+C:\Users\hp\Desktop\псп проект\Sait\bin\Debug\netcoreapp3.1\System.Diagnostics.DiagnosticSource.dll
+C:\Users\hp\Desktop\псп проект\Sait\bin\Debug\netcoreapp3.1\System.IdentityModel.Tokens.Jwt.dll
+C:\Users\hp\Desktop\псп проект\Sait\bin\Debug\netcoreapp3.1\System.Runtime.Caching.dll
+C:\Users\hp\Desktop\псп проект\Sait\bin\Debug\netcoreapp3.1\System.Security.Cryptography.ProtectedData.dll
+C:\Users\hp\Desktop\псп проект\Sait\bin\Debug\netcoreapp3.1\runtimes\unix\lib\netcoreapp3.1\Microsoft.Data.SqlClient.dll
+C:\Users\hp\Desktop\псп проект\Sait\bin\Debug\netcoreapp3.1\runtimes\win\lib\netcoreapp3.1\Microsoft.Data.SqlClient.dll
+C:\Users\hp\Desktop\псп проект\Sait\bin\Debug\netcoreapp3.1\runtimes\win-arm\native\Microsoft.Data.SqlClient.SNI.dll
+C:\Users\hp\Desktop\псп проект\Sait\bin\Debug\netcoreapp3.1\runtimes\win-arm\native\Microsoft.Data.SqlClient.SNI.pdb
+C:\Users\hp\Desktop\псп проект\Sait\bin\Debug\netcoreapp3.1\runtimes\win-arm64\native\Microsoft.Data.SqlClient.SNI.dll
+C:\Users\hp\Desktop\псп проект\Sait\bin\Debug\netcoreapp3.1\runtimes\win-arm64\native\Microsoft.Data.SqlClient.SNI.pdb
+C:\Users\hp\Desktop\псп проект\Sait\bin\Debug\netcoreapp3.1\runtimes\win-x64\native\Microsoft.Data.SqlClient.SNI.dll
+C:\Users\hp\Desktop\псп проект\Sait\bin\Debug\netcoreapp3.1\runtimes\win-x64\native\Microsoft.Data.SqlClient.SNI.pdb
+C:\Users\hp\Desktop\псп проект\Sait\bin\Debug\netcoreapp3.1\runtimes\win-x86\native\Microsoft.Data.SqlClient.SNI.dll
+C:\Users\hp\Desktop\псп проект\Sait\bin\Debug\netcoreapp3.1\runtimes\win-x86\native\Microsoft.Data.SqlClient.SNI.pdb
+C:\Users\hp\Desktop\псп проект\Sait\bin\Debug\netcoreapp3.1\runtimes\win\lib\netstandard2.0\System.Runtime.Caching.dll
+C:\Users\hp\Desktop\псп проект\Sait\bin\Debug\netcoreapp3.1\runtimes\win\lib\netstandard2.0\System.Security.Cryptography.ProtectedData.dll
+C:\Users\hp\Desktop\псп проект\Sait\obj\Debug\netcoreapp3.1\Sait.csproj.AssemblyReference.cache
+C:\Users\hp\Desktop\псп проект\Sait\obj\Debug\netcoreapp3.1\Sait.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\hp\Desktop\псп проект\Sait\obj\Debug\netcoreapp3.1\Sait.AssemblyInfoInputs.cache
+C:\Users\hp\Desktop\псп проект\Sait\obj\Debug\netcoreapp3.1\Sait.AssemblyInfo.cs
+C:\Users\hp\Desktop\псп проект\Sait\obj\Debug\netcoreapp3.1\Sait.csproj.CoreCompileInputs.cache
+C:\Users\hp\Desktop\псп проект\Sait\obj\Debug\netcoreapp3.1\Sait.MvcApplicationPartsAssemblyInfo.cache
+C:\Users\hp\Desktop\псп проект\Sait\obj\Debug\netcoreapp3.1\Sait.RazorAssemblyInfo.cache
+C:\Users\hp\Desktop\псп проект\Sait\obj\Debug\netcoreapp3.1\Sait.RazorAssemblyInfo.cs
+C:\Users\hp\Desktop\псп проект\Sait\obj\Debug\netcoreapp3.1\staticwebassets\Sait.StaticWebAssets.Manifest.cache
+C:\Users\hp\Desktop\псп проект\Sait\obj\Debug\netcoreapp3.1\staticwebassets\Sait.StaticWebAssets.xml
+C:\Users\hp\Desktop\псп проект\Sait\obj\Debug\netcoreapp3.1\scopedcss\bundle\Sait.styles.css
+C:\Users\hp\Desktop\псп проект\Sait\obj\Debug\netcoreapp3.1\Sait.TagHelpers.input.cache
+C:\Users\hp\Desktop\псп проект\Sait\obj\Debug\netcoreapp3.1\Sait.TagHelpers.output.cache
+C:\Users\hp\Desktop\псп проект\Sait\obj\Debug\netcoreapp3.1\Sait.RazorCoreGenerate.cache
+C:\Users\hp\Desktop\псп проект\Sait\obj\Debug\netcoreapp3.1\Razor\Views\Home\About.cshtml.g.cs
+C:\Users\hp\Desktop\псп проект\Sait\obj\Debug\netcoreapp3.1\Razor\Views\Home\AddFeedback.cshtml.g.cs
+C:\Users\hp\Desktop\псп проект\Sait\obj\Debug\netcoreapp3.1\Razor\Views\Home\Index.cshtml.g.cs
+C:\Users\hp\Desktop\псп проект\Sait\obj\Debug\netcoreapp3.1\Razor\Views\Home\Product.cshtml.g.cs
+C:\Users\hp\Desktop\псп проект\Sait\obj\Debug\netcoreapp3.1\Razor\Views\Home\ProductInfo.cshtml.g.cs
+C:\Users\hp\Desktop\псп проект\Sait\obj\Debug\netcoreapp3.1\Razor\Views\Home\SeeFeedbacks.cshtml.g.cs
+C:\Users\hp\Desktop\псп проект\Sait\obj\Debug\netcoreapp3.1\Razor\Views\Shared\Error.cshtml.g.cs
+C:\Users\hp\Desktop\псп проект\Sait\obj\Debug\netcoreapp3.1\Razor\Views\Shared\_Layout.cshtml.g.cs
+C:\Users\hp\Desktop\псп проект\Sait\obj\Debug\netcoreapp3.1\Razor\Views\Shared\_ValidationScriptsPartial.cshtml.g.cs
+C:\Users\hp\Desktop\псп проект\Sait\obj\Debug\netcoreapp3.1\Razor\Views\_ViewImports.cshtml.g.cs
+C:\Users\hp\Desktop\псп проект\Sait\obj\Debug\netcoreapp3.1\Razor\Views\_ViewStart.cshtml.g.cs
+C:\Users\hp\Desktop\псп проект\Sait\obj\Debug\netcoreapp3.1\Sait.RazorTargetAssemblyInfo.cache
+C:\Users\hp\Desktop\псп проект\Sait\obj\Debug\netcoreapp3.1\Sait.RazorTargetAssemblyInfo.cs
+C:\Users\hp\Desktop\псп проект\Sait\obj\Debug\netcoreapp3.1\Sait.Views.pdb
+C:\Users\hp\Desktop\псп проект\Sait\obj\Debug\netcoreapp3.1\Sait.csproj.CopyComplete
+C:\Users\hp\Desktop\псп проект\Sait\obj\Debug\netcoreapp3.1\Sait.dll
+C:\Users\hp\Desktop\псп проект\Sait\obj\Debug\netcoreapp3.1\Sait.pdb
+C:\Users\hp\Desktop\псп проект\Sait\obj\Debug\netcoreapp3.1\Sait.genruntimeconfig.cache

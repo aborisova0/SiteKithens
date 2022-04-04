@@ -1,0 +1,24 @@
+﻿@{
+    ViewBag.Title = "Отзывы";
+}
+
+<h1 class="section-title">Отзывы наших клиентов</h1>
+<div class="feedback-block">
+
+    @foreach (var b in ViewBag.Feedbacks)
+    {
+
+        <div class="feedback-block_item">
+            <div class="user">
+                <img src="~/images/icon_feedback.svg" class="feedback-block_image">
+                <span>@b.Name @b.Surname</span>
+            </div>
+            <div class="feedback-block_text">
+                <p>
+                    @b.Text
+                </p>
+            </div>
+        </div>
+    }
+
+</div>

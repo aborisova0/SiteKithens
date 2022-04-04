@@ -1,0 +1,15 @@
+﻿@model Sait.Models.Kitchen
+@{
+    ViewBag.Title = "Информация";
+    Layout = null;
+}
+
+<h1>Кухонный гарнитур @Model.Name</h1>
+<ul>
+    <li>Цена: @Model.Price руб</li>
+    <li>Материал: ЛДСП</li>
+    <li>Стиль: @Model.Style</li>
+</ul>
+<p>
+    @Model.Description
+</p>

@@ -1,0 +1,111 @@
+﻿@model IEnumerable<Sait.Models.Kitchen>
+@{
+    ViewData["Title"] = "Кухни";
+}
+
+<div class="cont">
+    <div class="sidebar">
+        <form method="get">
+            <div class="dropdown">
+                <label>Стиль</label>
+                <select name="dropdown_Style" class="dropdown-select">
+                    <option value="">Все</option>
+                    <option value="Классика" name="type">Классика</option>
+                    <option value="Скандинавия" name="type">Скандинавия</option>
+                    <option value="Лофт" name="type">Лофт</option>
+                    <option value="Модерн" name="type">Модерн</option>
+                </select>
+            </div>
+            <div class="dropdown" name="Light">
+                <label>Наличие</label>
+                <select name="dropdown_Available" class="dropdown-select">
+                    <option value="">Выбрать</option>
+                    <option value="Доступно">Доступно</option>
+                    <option value="Под заказ">Под заказ</option>
+                </select>
+            </div>
+            <input type="submit" value="Применить" class="btn" />
+        </form>
+        <br>
+    </div>
+
+    <div class="content">
+        <h1 class="main_h1">Каталог</h1>
+        <div class="flow">
+
+            @foreach (var b in ViewBag.Kitchens)
+            {
+            <div class="item">
+                <a href="~/Home/Product/@b.ID"><img src="~/images/@b.Image" width="300" height="160"></a>
+                <a href="~/Home/Product/@b.ID">@b.Name</a>
+                @*<a class="infoview" href="~/Home/ProductInfo/@b.ID">@b.Name</a>*@
+                @*<div id="previewWin"> </div>*@
+            </div>
+            }
+        </div>
+    </div>
+</div>
+
+<script>
+        window.onload = initAll;
+        var xhr = false;
+        var xPos, yPos;
+
+        function initAll() {
+            var allLinks = document.getElementsByClassName("infoview");
+            for (var i = 0; i < allLinks.length; i++) {
+    
+                allLinks[i].onmouseover = showPreview;
+            }
+        }
+
+        function showPreview(evt) {
+            if (evt) {
+
+                var url = evt.target;
+            } else {
+                evt = window.event;
+                var url = evt.srcElement;
+            }
+            xPos = evt.clientX;
+            yPos = evt.pageY;
+
+
+            if (window.XMLHttpRequest) {
+                xhr = new XMLHttpRequest();
+            } else {
+                if (window.ActiveXObject) {
+                    try {
+                        xhr = new ActiveXObject("Microsoft.XMLHTTP");
+                    } catch (e) {}
+                }
+            }
+
+            if (xhr) {
+                xhr.onreadystatechange = showContents;
+                xhr.open("GET", url, true);
+                xhr.send(null);
+            } else {
+                alert("Ошибка при создании XMLHttp запроса");
+            }
+            return false;
+        }
+
+        function showContents() {
+            if (xhr.readyState == 4) {
+                if (xhr.status == 200) {
+                    var outMsg = xhr.responseText;
+                } else {
+                    var outMsg = "Проблема запросом, статус " + xhr.status;
+                }
+                var prevWin = document.getElementById("previewWin");
+                prevWin.innerHTML = outMsg;
+                prevWin.style.top = parseInt(yPos) - 200 + "px";
+                prevWin.style.left = parseInt(xPos) - 450 + "px";
+                prevWin.style.visibility = "visible";
+                prevWin.onmouseout = function() {
+                    document.getElementById("previewWin").style.visibility = "hidden";
+                }
+            }
+        }
+</script>

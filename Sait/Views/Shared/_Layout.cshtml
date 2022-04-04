@@ -1,0 +1,42 @@
+﻿<!DOCTYPE html>
+<html lang="en">
+<head>
+    <meta charset="utf-8" />
+    <meta name="viewport" content="width=device-width, initial-scale=1.0" />
+    <title>@ViewData["Title"]</title>
+    <link rel="stylesheet" href="~/css/style.css" />
+    <link rel="stylesheet" href="~/css/main.css" />
+</head>
+<body>
+    <header class="header">
+        <div class="container">
+            <div class="navbar__wrap">
+                <div class="logo navbar__logo">
+                    <h1 class="logo__text">Фабрика Кухни</h1>
+                    <span class="logo__description">ведущий производитель</span>
+                </div>
+                <div class="menu__nav">
+                    <a class="menu__link" href="~/Home/Index">Каталог</a>
+                    <a class="menu__link" href="~/Home/About">Полезные советы</a>
+                    <a class="menu__link" href="/Home/SeeFeedbacks">Отзывы</a>
+                    <a class="menu__link" href="~/Home/AddFeedback">Добавить отзыв</a>
+                </div>
+                <div class="navbar__mobile">
+                    <a class="navbar__phone" href="tel:89379981066"> 8(937)998-10-66</a>
+                    <a class="navbar__email" href="mailto:info@mail.ru">info@mail.ru</a>
+                </div>
+            </div>
+        </div>
+    </header>
+
+    <main>
+        @RenderBody()
+    </main>
+    
+    <footer class="footer">
+        <p>Фабрика кухни, 2021</p>
+    </footer>
+    <script src="~/js/site.js" asp-append-version="true"></script>
+    @RenderSection("Scripts", required: false)
+</body>
+</html>

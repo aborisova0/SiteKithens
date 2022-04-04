@@ -1,0 +1,41 @@
+﻿@model Sait.Models.Kitchen
+@{
+    ViewBag.Title = Model.Name;
+}
+
+<div class="contain">
+    <div class="description-block">
+        <div class="left-column">
+            <div class="slider">
+                <div>
+                    <img class="item_ph" src="~/images/@Model.Image">
+                </div>
+            </div>
+            <br>
+        </div>
+        <div class="right-column">
+            <div class="product-description">
+                <h1>Кухонный гарнитур @Model.Name</h1>
+                <p>Столешница, стеновая панель, мойка, смеситель и бытовая техника продаются отдельно</p>
+                <ul>
+                    <li>Стиль: @Model.Style</li>
+                    <li>Наличие: @Model.Available</li>
+                    <li>Материал: ЛДСП</li>
+                </ul>
+            </div>
+            <div class="product-price">Цена: @Model.Price </div>
+        </div>
+    </div>
+    <div class="description">
+        <h2>Описание</h2>
+        <p>
+            @Model.Description
+        </p>
+
+        <p id="first" onclick="loadDoc()">Показать больше информации..</p>
+        <p id="first_yelloy" ; style="display:none" onclick="first_yelloy()">Скрыть блок </p>
+        <div id="second_hide" style="display:none">
+            <div id="demo"></div>
+        </div>
+    </div>
+</div>

@@ -1,0 +1,53 @@
+﻿@{
+    ViewData["Title"] = "Добавление отзыва";
+}
+
+<div class="contain">
+    <form class="contact_form" method="post" name="contact_form" onsubmit="return validForm()">
+        <fieldset>
+            <legend>Контактная информация</legend>
+            <div class="boxform">
+                <p>Имя:</p>
+                <input id="id_name" type="text" name="Name" maxlength="20" oninput="toggleButton();">
+            </div>
+            <p class="msg_error" id="message_name"></p>
+            <div class="boxform">
+                <p>Фамилия:</p>
+                <input id="id_secondname" type="text" name="Surname" maxlength="30" oninput="toggleButton();">
+
+            </div>
+            <p class="msg_error" id="message_surname"></p>
+            <div class="boxform">
+                <p>Телефон:</p>
+                <input id="id_phone" type="text" name="Phone" maxlength="20" oninput="toggleButton();">
+            </div>
+            <p class="msg_error" id="message_phone"></p>
+            <div class="boxform">
+                <p>Почта:</p>
+                <input id="id_email" type="text" name="Email" maxlength="50" oninput="toggleButton();">
+            </div>
+            <p class="msg_error" id="message_email"></p>
+        </fieldset>
+        <fieldset>
+            <legend>Отзыв</legend>
+            <div class="boxform">
+                <p>Оценка:</p>
+                <select name="Mark" onchange="toggleButton();">
+                    <option>Выберите одну из позиций</option>
+                    <option>5</option>
+                    <option>4</option>
+                    <option>2</option>
+                    <option>2</option>
+                    <option>1</option>
+                </select>
+            </div>
+            <p class="msg_error" id="message"></p>
+            <div class="boxform">
+                <p>Текст отзыва:</p>
+                <textarea id="text_feedback" name="Text" rows="5" oninput="toggleButton();"></textarea>
+            </div>
+            <p class="msg_error" id="message"></p>
+        </fieldset>
+        <button id="btn" class="submit" type="submit">Отправить данные</button>
+    </form>
+</div>
