@@ -1,2 +1,2 @@
-# SiteKithens
-Сайт на ASP.NET
+# Kithens
+Интернет магазин
